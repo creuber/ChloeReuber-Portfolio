@@ -13,8 +13,7 @@ When I’m not coding, you can find me gaming on PC, watching anime in my room, 
 - **Expected Graduation**: May 2025
 - **Relevant Courses**:
   - Data Structures and Algorithms
-  - Web Development with JavaScript
-  - Mobile App Development
+  - Web Development with HTML
   - Cloud Computing
   - Software Development with Java
 
