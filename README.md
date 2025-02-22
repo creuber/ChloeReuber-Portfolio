@@ -24,4 +24,5 @@ When I’m not coding, you can find me gaming on PC, watching anime in my room, 
 - **Tools**: GitHub, Visual Studio Code, Intellij
 - **Soft Skills**: Problem-solving, collaboration, communication
 
-
+Feel free to connect with me on GitHub or through my other platforms to chat about tech or even anything
+- [LinkedIn Profile](https://www.linkedin.com/in/chloe-reuber-a28a69296/)
